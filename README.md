@@ -35,7 +35,8 @@ code :
       </nav>
       <hr>
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-22 131313" src="https://github.com/user-attachments/assets/a3009853-9372-43c8-bc22-d445d8ae94fa" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b597e417-fc78-4ddf-8484-888b40ada3e2" />
+
 
 jawab pertanyaan berikut!
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulis tag?
