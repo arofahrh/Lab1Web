@@ -1,71 +1,30 @@
-# praktikum 1
-code :
-
-      <!DOCTYPE html>
-    <html>
-    <title>Tag HTML dasar</title>
-      </head>
-      <body>
+# Praktikum 1
+1. - Membuat paragraf sederhana
+   <img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/a2962160-6a00-4ecc-9319-f532f80bfa64" />
       
-      </body>
-      </html>
-      <!-- Ini adalah paragraf pertama -->
-       <!-- judul paragraf pertama -->
-      <h1>Belajar Dasar HTML</h1>
-      <p align=”center”>Kami sedang belajar <ins><mark>HTML dasar</mark></ins>, pada matakuliah <b>Pemrograman Web</b>
-       di Prodi <i> Teknik Informatika </i> <ins> Universitas Pelita bangsa.</ins> Pelajaran pertama
-      yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
-      tag-tag dasar HTML.</p>
-      <!-- Ini adalah paragraf kedua -->
-       <!-- judul paragraf kedua -->
-      <h2>Paragraf pada HTML</h2>
-      <p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa
-      kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat
-      dengan menggunakan tag dasar html.</p>
-      <!-- judul paragraf pertama -->
-      <!-- sub judul paragraf -->
-      <h3>Menambahkan Gambar</h3>
-      <!-- menambahkan gambar pada dokumen -->
-      <img src="logo UPB.png" width="200" "Logo Univeritas Pelita Bangsa">
-      <!-- menambahkan link navigasi -->
-      <nav>
-      <a href="lab1_tag_dasar.html">Dasar HTML</a>
-      <a href="lab1_halaman2.html">Halaman 2</a>
-      <a href="http://www.google.com">Halaman Web Eksternal Google</a>
-      </nav>
-      <hr>
+   <img width="1919" height="382" alt="image" src="https://github.com/user-attachments/assets/efaee4ce-f09d-4e3e-a7f2-1b307a25dd08" />
+   - Atur atribut paragraf
+     <img width="1912" height="781" alt="image" src="https://github.com/user-attachments/assets/6703b8e7-3348-4a70-a038-4194c06cbc8b" />
+   - Menambah Judul
+     <img width="1205" height="644" alt="image" src="https://github.com/user-attachments/assets/8b672839-2a05-48cb-804d-6623f37c717a" />
+     <img width="1919" height="554" alt="image" src="https://github.com/user-attachments/assets/f5f6dbb6-0dd0-42ec-99ab-027c09d2eeb4" />
+   -Memformat Teks
+   <img width="1919" height="623" alt="image" src="https://github.com/user-attachments/assets/9a27a303-6c07-4add-a57f-a4f1add97528" />
+   <img width="1919" height="565" alt="image" src="https://github.com/user-attachments/assets/de123b0d-98fb-41ee-8457-7ffb522d0f52" />
+    -Menyisipkan Gambar
+     <img width="1919" height="755" alt="image" src="https://github.com/user-attachments/assets/47a2b01f-c1a1-4b6f-8ecd-80cf57b1f7d9" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b597e417-fc78-4ddf-8484-888b40ada3e2" />
+     <img width="1919" height="735" alt="image" src="https://github.com/user-attachments/assets/bd86df0b-327c-4d67-aeda-978558f4d2fe" />
+     - Menambah Hyperlink
+       <img width="1919" height="891" alt="image" src="https://github.com/user-attachments/assets/cd6adca8-fe72-41e5-bf61-667fd276a3fa" />
+       <img width="1919" height="691" alt="image" src="https://github.com/user-attachments/assets/cd322114-3296-4977-a9ca-b1a0c1ff5a3c" />
 
 
-jawab pertanyaan berikut!
-1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulis tag?
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
-3. Apa perbedaan atribut tittle dan alt pada tag <img>, berikan penjelasannya!
-4. Untuk mengatur ukuran gambar, digunakakan atribut width dan height. Agar tampilan gambar proposional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
-
-jawaban :
-1. jika saya mengubah kode nya dengan atribut (tag) benar, tentu tidak akan error, browser akan tetap menampilkan apa yang sesuai saya tulis. Tetapi, saat salah menulis atribut (tag), HTML tidak akan menampilkan pop-up error, browser akan mengabaikan tag yang salah, dan hasil yang di tampilkan bisa berantakan atau tidak muncul (contoh : gambar tidak muncul)
-2. - tag <p> fungsinya membuat paragraf teks termasuk tag kontainer (ada pembuka & penutup : <p>...</p>
-   - <img> Ini fungsinya menampilkan gambar pada halaman web (butuh atribut      src untuk menampilkan file.
-3. Perbedaan :
-   - title pada tag <img> : Memberikan informasi tambahan atau deskripsi                                ketika kursor diarahkan ke gambar. Teks ini                                 juga muncul sebagai tooltip (kotak kecil) saat                              kursor hover di atas gambar.
-   - alt (alternative text) : Memberikan teks alternatif jika gambar                                      tidak bisa dimuat ( contoh : file hilang,                                   koneksi lambat) dan untuk membantu pembaca                                  layar (Aksebilitas). Teks ini muncul di area                                gambar kalau gambarnya gagal dimuat. Tidak                                  muncul saat hover.
-4. - jika hanya salah satu yang diisi (misalnya width) browser otomatis          menyesuaikan tinggi sesuai proporsi asli (tidak gepeng).
-   - Jika dua-duanya diisi tapi rasio berbeda dari gambar asli (gambar           terdistorsi/gepeng.
-5. Atribut target pada link <a>
-- _blank : Membuka link di tab/jendela baru.
-- _self : Membuka link di tab yang sama (default).
-- _top : membuka link di seluruh jendela penuh (keluar daru frame)
-- _parent : membuka link di jendela induk (jika halaman di dalam                        frame/iframe)
+       
 
 
 
 
 
-
-
-
-
-
+     
+     
