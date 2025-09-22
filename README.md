@@ -36,13 +36,26 @@ code :
       <hr>
 
 jawab pertanyaan berikut!
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulis tag?
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut tittle dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakakan atribut width dan height. Agar tampilan gambar proposional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
 
 jawaban :
-1. Jika mengubah atau salah menulis tag HTML, biasanya:
-   - browser tetap berusaha menampilkan halaman sebisa mungkin.
-   - Namun tampilannya bisa berantakan (misalnya teks tidak terformat, gambarnya tidak muncul).
-   - 
-
+1. jika saya mengubah kode nya dengan atribut (tag) benar, tentu tidak akan error, browser akan tetap menampilkan apa yang sesuai saya tulis. Tetapi, saat salah menulis atribut (tag), HTML tidak akan menampilkan pop-up error, browser akan mengabaikan tag yang salah, dan hasil yang di tampilkan bisa berantakan atau tidak muncul (contoh : gambar tidak muncul)
+2. - tag <p> fungsinya membuat paragraf teks termasuk tag kontainer (ada pembuka & penutup : <p>...</p>
+   - <img> Ini fungsinya menampilkan gambar pada halaman web (butuh atribut      src untuk menampilkan file.
+3. Perbedaan :
+   - title pada tag <img> : Memberikan informasi tambahan atau deskripsi                                ketika kursor diarahkan ke gambar. Teks ini                                 juga muncul sebagai tooltip (kotak kecil) saat                              kursor hover di atas gambar.
+   - alt (alternative text) : Memberikan teks alternatif jika gambar                                      tidak bisa dimuat ( contoh : file hilang,                                   koneksi lambat) dan untuk membantu pembaca                                  layar (Aksebilitas). Teks ini muncul di area                                gambar kalau gambarnya gagal dimuat. Tidak                                  muncul saat hover.
+4. - jika hanya salah satu yang diisi (misalnya width) browser otomatis          menyesuaikan tinggi sesuai proporsi asli (tidak gepeng).
+   - Jika dua-duanya diisi tapi rasio berbeda dari gambar asli (gambar           terdistorsi/gepeng.
+5. Atribut target pada link <a>
+- _blank : Membuka link di tab/jendela baru.
+- _self : Membuka link di tab yang sama (default).
+- _top : membuka link di seluruh jendela penuh (keluar daru frame)
+- _parent : membuka link di jendela induk (jika halaman di dalam                        frame/iframe)
 
 
 
