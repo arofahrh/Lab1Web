@@ -35,6 +35,8 @@ code :
       </nav>
       <hr>
 
+<img width="1919" height="1079" alt="Screenshot 2025-09-22 131313" src="https://github.com/user-attachments/assets/a3009853-9372-43c8-bc22-d445d8ae94fa" />
+
 jawab pertanyaan berikut!
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulis tag?
 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
