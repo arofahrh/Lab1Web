@@ -72,7 +72,34 @@
             Link “Halaman Web Eksternal Google” mengarah ke Google.
             Tampil garis horizontal di bawah link.
 
+## Jawab Pertanyaan Berikut
+    1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulis tag?
+    2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+    3. Apa perbedaan atribut tittle dan alt pada tag <img>, berikan penjelasannya!
+    4. Untuk mengatur ukuran gambar, digunakakan atribut width dan height. Agar tampilan gambar proposional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+    5. Pada link tambahkan atribut target dengan nilai atribut bervariasi (_blank, _self, _top, _parent), apa yang terjadi pada masing-masing nilai atribut tersebut?
+ ### Jawaban :
+ 
+      1. Perubahan kode & atribut
+      	• Jika kita mengubah kode HTML dengan atribut/tag yang benar, maka browser akan menampilkan sesuai yang kita tulis.
+      	• Tetapi jika salah menulis atribut/tag, HTML tidak akan memunculkan pop-up error. Browser hanya akan mengabaikan tag yang salah, dan hasil tampilan bisa berantakan atau tidak muncul (contoh: gambar tidak muncul).
+      2. Perbedaan Tag
+      	• <p> : Digunakan untuk membuat paragraf teks. Termasuk tag kontainer karena memiliki pembuka dan penutup <p>...</p>.
+      	• <img> : Digunakan untuk menampilkan gambar pada halaman web.
+      3. Perbedaan title dan alt pada <img>
+      	• title : Memberikan informasi tambahan atau deskripsi ketika kursor diarahkan ke gambar. Teks ini muncul sebagai tooltip (kotak kecil) saat kursor hover di atas gambar.
+      	• alt (alternative text) : Memberikan teks alternatif jika gambar tidak bisa dimuat (contoh: file hilang, koneksi lambat) dan membantu pembaca layar (accessibility). Teks ini muncul di area gambar kalau gambarnya gagal dimuat. Tidak muncul saat hover.
+      4. Ukuran Gambar
+      	• Jika hanya satu atribut (misalnya width) yang diisi, browser otomatis menyesuaikan tinggi sesuai proporsi asli (gambar tidak gepeng).
+      	• Jika keduanya (width dan height) diisi dengan rasio berbeda dari gambar asli, maka gambar akan terdistorsi/gepeng.
+      5. Atribut target pada <a>
+      	• _blank : Membuka link di tab/jendela baru.
+      	• _self : Membuka link di tab yang sama (default).
+      	• _top : Membuka link di seluruh jendela penuh (keluar dari frame).
+      	• _parent : Membuka link di jendela induk (jika halaman berada di dalam frame/iframe).
 
+
+   
        
 
 
