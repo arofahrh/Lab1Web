@@ -1,4 +1,9 @@
 # Praktikum 1
+
+      Nama : Arofah Raudlatul Hasanah
+      Kelas : TI.24.A2
+      NIM  : 312410231
+
 ## 1. Membuat paragraf sederhana
    <img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/a2962160-6a00-4ecc-9319-f532f80bfa64" />
       
